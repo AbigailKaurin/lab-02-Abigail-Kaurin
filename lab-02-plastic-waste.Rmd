@@ -1,5 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
+author: "Abigail Kaurin"
 output: 
   tufte::tufte_html:
     tufte_variant: "envisioned"
@@ -299,6 +300,7 @@ plastic_waste %>%
          title = "Plastic waste vs coastal population proportion") 
 ```
 
+- The data here shows the relationship between the proportion of coastal and total populations along with plastic waste per capita. the colored dots represent different countries and the black line represents a correlation curve.
 
 
 🧶 ✅ ⬆️ Knit, *commit, and push your changes to GitHub with an appropriate commit message. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards and review the md document on GitHub to make sure you're happy with the final state of your work.*
